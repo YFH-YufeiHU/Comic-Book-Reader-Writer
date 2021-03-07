@@ -1,0 +1,4 @@
+/home/yufei/Desktop/IN204/Comic-Book-Reader-Writer/build-CBR-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/rebuild_cache.dir
+/home/yufei/Desktop/IN204/Comic-Book-Reader-Writer/build-CBR-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/edit_cache.dir
+/home/yufei/Desktop/IN204/Comic-Book-Reader-Writer/build-CBR-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/CBR.dir
+/home/yufei/Desktop/IN204/Comic-Book-Reader-Writer/build-CBR-Desktop_Qt_5_14_2_GCC_64bit-Release/CMakeFiles/CBR_autogen.dir
